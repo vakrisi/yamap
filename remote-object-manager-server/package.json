@@ -25,7 +25,7 @@
   "dependencies": {
     "nconf": "~0.6.9",
     "express": "~4.8.5",
-    "mongodb": "~1.4.7",
+    "mongodb": "~3.6.1",
     "inherit": "~2.2.2",
     "underscore": "~1.7.0",
     "body-parser": "~1.6.5",
